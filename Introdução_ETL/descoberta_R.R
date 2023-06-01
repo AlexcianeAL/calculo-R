@@ -3,10 +3,10 @@
 pacman::p_load(funModeling, tidyverse) 
 
 
-
-#olhando os dados
 library(funModeling)
 library(tidyverse)
+
+#olhando os dados
 
 glimpse(iris3)
 status(iris3)
